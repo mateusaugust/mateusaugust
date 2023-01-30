@@ -21,3 +21,6 @@
 <a href = "mailto:cmp.1a.mateusasilva033@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-0e0e0e?style=for-the-badge&logo=gmail&logoColor=9c866f" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mateusaugusto-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e0e0e?style=for-the-badge&logo=linkedin&logoColor=9c866f"  target="_blank"></a> 
  </div>
+
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e0e0eheight=120&section=footer"/>
