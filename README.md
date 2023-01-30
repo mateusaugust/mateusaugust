@@ -18,6 +18,6 @@
 <div align="center"> 
 <a href="https://instagram.com/mateus_augustoo_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0e0e0e?style=for-the-badge&logo=instagram&logoColor=9c866f"</a>
 
-<a href = "mailto:mateusasilva033@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-0e0e0e?style=for-the-badge&logo=gmail&logoColor=9c866f" target="_blank"></a>
+<a href = "mailto:cmp.1a.mateusasilva033@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-0e0e0e?style=for-the-badge&logo=gmail&logoColor=9c866f" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mateusaugusto-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e0e0e?style=for-the-badge&logo=linkedin&logoColor=9c866f"  target="_blank"></a> 
  </div>
